@@ -15,9 +15,9 @@
     1) Hierarchial clustering    
     2) K-means
     
-See notebook for Hierarchial clustering [here]()
+See notebook for Hierarchial clustering [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Iris%20hierarchial%20clustering/iris%20hierarchical%20clustering.ipynb)
 
-See notebook for K-means [here]()
+See notebook for K-means [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Iris%20K-means/iris%20k%20means.ipynb)
 
 ## 2) Loan dataset
 
@@ -42,9 +42,9 @@ See notebook for K-means [here]()
     1) Hierarchial clustering    
     2) K-means
     
-See notebook for Hierarchial clustering [here]()
+See notebook for Hierarchial clustering [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Loan%20hierarchical%20clustering/loan%20data%20hierarchical%20clustering.ipynb)
 
-See notebook for K-means [here]()
+See notebook for K-means [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Loan%20K-means/loan%20data%20k%20means.ipynb)
 
 ## 3) Mall customers dataset
 
@@ -60,6 +60,6 @@ See notebook for K-means [here]()
     1) Hierarchial clustering    
     2) K-means
     
-See notebook for Hierarchial clustering [here]()
+See notebook for Hierarchial clustering [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Mall%20customers%20hierarchical%20clustering/mall%20customers%20hierarchical%20clustering.ipynb)
 
-See notebook for K-means [here]()
+See notebook for K-means [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/Mall%20customers%20K-means/Mall%20customers%20k%20means.ipynb)
