@@ -1,3 +1,9 @@
+# K-Means clustering algorithm
+See sample notebook [here](https://github.com/jayashree8/Machine_learning_unsupervised_models/blob/master/K-Means.ipynb)
+
+See article [here](https://jayashree8.medium.com/clustering-custom-data-using-the-k-means-algorithm-python-6a243308034a)
+
+
 # This repository contains unsupervised learning models worked on the following datasets:
 
 ## 1) Iris dataset
